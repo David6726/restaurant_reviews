@@ -1,0 +1,15 @@
+{
+    "mysql":{
+        "host":"localhost", 
+        "port":3306,
+        "user":"root",
+        "password":"1234",
+        "db":"restaurant_reviews",
+        "charset":"utf8mb4"
+    },
+    "app":{
+        "host":"0.0.0.0", 
+        "port":443,
+        "debug":true
+    }
+}
